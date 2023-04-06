@@ -1,3 +1,3 @@
 
-def sent_top_code(phone_number, code):
+def sent_otp_code(phone_number, code):
     pass
